@@ -1,7 +1,7 @@
 import time
 import tarfile
 
-from hnsw_refac import (
+from hnsw import (
     connect_to_milvus,
     check_collection_exists,
     create_collection,
