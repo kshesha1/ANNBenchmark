@@ -97,7 +97,7 @@ The results are as shown below:
 </p>
 
 <p align="center">
-  <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Faiss%20vs%20Milvus/IVFPQ%20QPS.png"
+  <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Faiss%20vs%20Milvus/IVFPQ_QPS.png"
     alt="IVFPQ: QPS">
   <br>
   IVFPQ: QPS
