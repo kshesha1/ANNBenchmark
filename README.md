@@ -36,13 +36,6 @@ The results are as shown below:
 #### IVF
 
 <p align="center">
-  <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Faiss%20vs%20Milvus/IVF_Build_times.png"
-    alt="IVF: Build times">
-  <br>
-  IVF: Build times
-</p>
-
-<p align="center">
   <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Faiss%20vs%20Milvus/IVF_Latency.png"
     alt="IVF: Latency">
   <br>
@@ -54,6 +47,13 @@ The results are as shown below:
     alt="IVF: QPS">
   <br>
   IVF: QPS
+</p>
+
+<p align="center">
+  <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Faiss%20vs%20Milvus/IVF_Build_times.png"
+    alt="IVF: Build times">
+  <br>
+  IVF: Build times
 </p>
 
 #### HNSW
