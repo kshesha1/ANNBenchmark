@@ -36,6 +36,13 @@ The results are as shown below:
 #### IVF
 
 <p align="center">
+  <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Faiss%20vs%20Milvus/IVF_Build_times.png"
+    alt="IVF: Build times">
+  <br>
+  IVF: Build times
+</p>
+
+<p align="center">
   <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Faiss%20vs%20Milvus/IVF_Latency.png"
     alt="IVF: Latency">
   <br>
@@ -43,39 +50,54 @@ The results are as shown below:
 </p>
 
 <p align="center">
-  <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Faiss%20vs%20Milvus/IVF%20QPS.png"
+  <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Faiss%20vs%20Milvus/IVF_QPS.png"
     alt="IVF: QPS">
   <br>
   IVF: QPS
 </p>
 
-<p align="center">
-  <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Faiss%20vs%20Milvus/IVF%20Build%20times.png"
-    alt="IVF: Build times">
-  <br>
-  IVF: Build times
-</p>
-
 #### HNSW
 <p align="center">
-  <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Faiss%20vs%20Milvus/HNSW%20Build%20times.png"
+  <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Faiss%20vs%20Milvus/HNSW_Build_times.png"
     alt="HNSW: Build times">
   <br>
   HNSW: Build times
 </p>
 
 <p align="center">
-  <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Faiss%20vs%20Milvus/HNSW%20Latency.png"
+  <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Faiss%20vs%20Milvus/HNSW_Latency.png"
     alt="HNSW: Latency">
   <br>
   HNSW: Latency
 </p>
 
 <p align="center">
-  <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Faiss%20vs%20Milvus/HNSW%20QPS.png"
+  <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Faiss%20vs%20Milvus/HNSW_QPS.png"
     alt="HNSW: QPS">
   <br>
   HNSW: QPS
 </p>
 
+#### IVF_PQ
+
+<p align="center">
+  <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Faiss%20vs%20Milvus/IVFPQ_Build_times.png"
+    alt="IVFPQ: Build times">
+  <br>
+  IVFPQ: Build times
+</p>
+
+<p align="center">
+  <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Faiss%20vs%20Milvus/IVFPQ_Latency.png"
+    alt="IVFPQ: Latency">
+  <br>
+  IVFPQ: Latency
+</p>
+
+<p align="center">
+  <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Faiss%20vs%20Milvus/IVFPQ_QPS.png"
+    alt="IVFPQ: QPS">
+  <br>
+  IVFPQ: QPS
+</p>
 
