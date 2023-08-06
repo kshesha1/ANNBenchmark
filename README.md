@@ -35,16 +35,23 @@ The results are as shown below:
 #### Faiss vs Milvus
 
 <p align="center">
-
   <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Faiss%20vs%20Milvus/IVF_Latency.png"
-    alt="IVF: Latency" title="IVF: Latency">
-    
+    alt="IVF: Latency">
+  <br>
+  IVF: Latency
+</p>
+
+<p align="center">
   <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Faiss%20vs%20Milvus/IVF%20QPS.png"
-    alt="IVF: QPS" title="IVF: QPS">
+    alt="IVF: QPS">
+  <br>
+  IVF: QPS
+</p>
 
+<p align="center">
   <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Faiss%20vs%20Milvus/IVF%20Build%20times.png"
-    alt="IVF: Build times" title="IVF: Build times">
+    alt="IVF: Build times">
+  <br>
+  IVF: Build times
+</p>
 
-
-
-  </p>
