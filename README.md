@@ -32,4 +32,8 @@ Our results showed that the order of insertion and index creation has a signific
 The results are as shown below:
 
 ### Results
+#### Faiss vs Milvus
+![IVF: Latency](https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Faiss%20vs%20Milvus/IVF_Latency.png)
+![IVF: QPS](https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Faiss%20vs%20Milvus/IVF%20QPS.png)
+![IVF: Build times](https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Faiss%20vs%20Milvus/IVF%20Build%20times.png)
 
