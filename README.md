@@ -104,3 +104,25 @@ The results are as shown below:
 </p>
 
 ### Milvus: Insert-Then-Create-Index vs Create-Index-Then-Insert
+#### IVF (Milvus Index Operation)
+<p align="center">
+  <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Milvus-Index_operation/IVF_buildtimes.png"
+    alt="IVF: Build times">
+  <br>
+  IVF: Build times
+</p>
+
+<p align="center">
+  <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Milvus-Index_operation/IVF_latency_PQT.png"
+    alt="IVF: Latency and Per query time">
+  <br>
+  IVF: Latency and Per query time
+</p>
+
+<p align="center">
+  <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Milvus-Index_operation/IVF_QPS.png"
+    alt="IVF: QPS">
+  <br>
+  IVF: QPS
+</p>
+
