@@ -155,3 +155,32 @@ The results are as shown below:
   HNSW: QPS
 </p>
 
+#### IVFPQ (Milvus Index Operation)
+<p align="center">
+  <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Milvus-Index_operation/IVFPQ_Build%20times.png"
+    alt="IVFPQ: Build times">
+  <br>
+  IVFPQ: Build times
+</p>
+
+<p align="center">
+  <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Milvus-Index_operation/IVFPQ_latency.png"
+    alt="IVFPQ: Latency">
+  <br>
+  IVFPQ: Latency
+</p>
+
+<p align="center">
+  <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Milvus-Index_operation/IVFPQ_PQT.png"
+    alt="IVFPQ: Per query time">
+  <br>
+  IVFPQ: Per query time
+</p>
+
+<p align="center">
+  <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Milvus-Index_operation/IVFPQ-QPS.png"
+    alt="IVFPQ: QPS">
+  <br>
+  IVFPQ: QPS
+</p>
+
