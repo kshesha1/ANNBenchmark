@@ -9,6 +9,15 @@ In addition to benchmarking and evaluating ANNS algorithms in Faiss and Milvus, 
 
 The purpose of this analysis is to identify any potential performance variances and implications associated to the order of these operations. We gain important insights into how the sequence of data insertion and index creation affects the efficiency and effectiveness of Milvus standalone by systematically comparing both strategies under the chosen ANNS algorithms (HNSW, IVF, IVF_PQ) and evaluation metrics (QPS, Latency, Per query time, Build Times).
 
+### Database and Hardware
+
+The database used in this study was the SIFT1M dataset, which is a collection of 1 million 128-dimensional SIFT features. Due to memory constraints, only 10,000 samples were used.
+
+The hardware used in this study was a Docker instance with 7.49GB of container memory and 8 cores allocated. The processor was an i7-CPU with 4 cores. The RAM was 16GB.
+
+The software used in this study was Faiss-cpu and Milvus version 2.2.13.
+
+
 ### ANNS Algorithms Explored
 #### IVF (Inverted File Index)
 
