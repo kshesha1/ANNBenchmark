@@ -32,7 +32,7 @@ Our results showed that the order of insertion and index creation has a signific
 The results are as shown below:
 
 ### Results
-#### Faiss vs Milvus
+### Faiss vs Milvus
 #### IVF
 
 <p align="center">
@@ -103,3 +103,4 @@ The results are as shown below:
   IVFPQ: QPS
 </p>
 
+### Milvus: Insert-Then-Create-Index vs Create-Index-Then-Insert
