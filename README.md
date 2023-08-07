@@ -126,3 +126,32 @@ The results are as shown below:
   IVF: QPS
 </p>
 
+#### HNSW (Milvus Index Operation)
+<p align="center">
+  <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Milvus-Index_operation/hnsw_buildtimes.png"
+    alt="HNSW: Build times">
+  <br>
+  HNSW: Build times
+</p>
+
+<p align="center">
+  <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Milvus-Index_operation/hnsw_latency.png"
+    alt="HNSW: Latency">
+  <br>
+  HNSW: Latency
+</p>
+
+<p align="center">
+  <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Milvus-Index_operation/hnsw_PQT.png"
+    alt="HNSW: Per query time">
+  <br>
+  HNSW: Per query time
+</p>
+
+<p align="center">
+  <img src="https://github.com/kshesha1/ANNBenchmark/blob/main/Graphs/Milvus-Index_operation/hnsw_QPS.png"
+    alt="HNSW: QPS">
+  <br>
+  HNSW: QPS
+</p>
+
